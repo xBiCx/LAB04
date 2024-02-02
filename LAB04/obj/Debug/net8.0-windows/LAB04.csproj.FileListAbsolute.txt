@@ -1,0 +1,17 @@
+D:\vs-code\LAB04\LAB04\bin\Debug\net8.0-windows\LAB04.exe
+D:\vs-code\LAB04\LAB04\bin\Debug\net8.0-windows\LAB04.deps.json
+D:\vs-code\LAB04\LAB04\bin\Debug\net8.0-windows\LAB04.runtimeconfig.json
+D:\vs-code\LAB04\LAB04\bin\Debug\net8.0-windows\LAB04.dll
+D:\vs-code\LAB04\LAB04\bin\Debug\net8.0-windows\LAB04.pdb
+D:\vs-code\LAB04\LAB04\obj\Debug\net8.0-windows\LAB04.Form1.resources
+D:\vs-code\LAB04\LAB04\obj\Debug\net8.0-windows\LAB04.Properties.Resources.resources
+D:\vs-code\LAB04\LAB04\obj\Debug\net8.0-windows\LAB04.csproj.GenerateResource.cache
+D:\vs-code\LAB04\LAB04\obj\Debug\net8.0-windows\LAB04.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs-code\LAB04\LAB04\obj\Debug\net8.0-windows\LAB04.AssemblyInfoInputs.cache
+D:\vs-code\LAB04\LAB04\obj\Debug\net8.0-windows\LAB04.AssemblyInfo.cs
+D:\vs-code\LAB04\LAB04\obj\Debug\net8.0-windows\LAB04.csproj.CoreCompileInputs.cache
+D:\vs-code\LAB04\LAB04\obj\Debug\net8.0-windows\LAB04.dll
+D:\vs-code\LAB04\LAB04\obj\Debug\net8.0-windows\refint\LAB04.dll
+D:\vs-code\LAB04\LAB04\obj\Debug\net8.0-windows\LAB04.pdb
+D:\vs-code\LAB04\LAB04\obj\Debug\net8.0-windows\LAB04.genruntimeconfig.cache
+D:\vs-code\LAB04\LAB04\obj\Debug\net8.0-windows\ref\LAB04.dll
